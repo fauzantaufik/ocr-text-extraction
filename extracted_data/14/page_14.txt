@@ -1,0 +1,48 @@
+CSSSV and CSD were operationally ready in March 2019 in, advance of 31 December 2020 and subsequent efforts were, focused on completing client migrations.
+
+EEA clients in a permissive regime, have the option to continue, trading with CS group UK entities. For EEA clients not in a permissive regime, any new trading activities need to be conducted, from the CS group EU entities. At the end of the transition period
+
+(31 December 2020), whilst the majority of in-scope EEA clients, migrated to the EU entities (e.g. those not in permissive regimes),, they have largely not opted to novate their existing positions to the
+
+EU entities. Novation requests are expected to increase throughout 2021. Existing EEA client positions that have not been, novated will remain in the CS UK entities until they cease to exist
+
+(e.g. until maturity or terminated by the client). In accordance with
+
+IFRS 5, these changes qualified as Held for sale (‘HFS’) therefore associated profit and loss being reported as Discontinued
+
+> For further details, refer to Note 31 —- Discontinued Operations and Assets and
+
+CSi is impacted by a range of political, macroeconomic, regulatory and accounting developments. The operating environment, continues to evolve rapidly resulting in the need for CSi to continue evaluating, assessing and adapting its strateqy.
+
+CSi witnessed a highly challenging environment severely impacted, by COVID-19 pandemic. The rapid spread of COVID-19 across, the world in early 2020 led to the introduction of tight government, controls and travel bans, as well as the implementation of other, measures, which quickly closed down activity and increased economic disruption globally. World markets were severely negatively, impacted, with multiple industries, including energy, industrials,, retail and leisure, significantly affected. However, major central, banks and governments around the world have responded by, implementing unprecedented monetary and fiscal policy stimulus, measures. CSi is closely monitoring the impact of COVID-19 on, operations and business.
+
+CSi delivered a resilient performance in 2020. The performance, section details the profitability during 2020, driven by market, volatility and increase in client driven transactions. CSi realised, losses from three counterparty defaults in the first half of the year, totalling USD 156 million from derivative transactions in the first, half of the year. In addition, refer to Note 8 — Allowance for Credit
+
+Losses which showed an increase of USD 13 million on CSi’s, accrual based instruments and Note 34 — Expected Credit Loss
+
+Measurement. CSi's total balance sheet increased primarily due, to its large derivative portfolio, which was caused by market pricing movements, coupled with an increase in cash collateral.
+
+Furthermore, from an early stage, CSi implemented responsive, contingency measures for its own operations globally to help protect against the spread of COVID-19, while providing continuity of, service. CSi deployed its robust business continuity management, capabilities and took what it believed to be the necessary actions, to safeguard operations while ensuring the safety of its teams.
+
+In addition, CSi established and continues to support numerous, measures for its employees to help overcome the challenges of, the pandemic, including working from home measures or split, working arrangements as well as paid family leave in all markets, in which schools are closed for colleagues who are unable to, work from home while also looking after their children or other, family members. Also, no employees were furloughed under, the Government’s Coronavirus Job Retention Scheme (‘CJRS’).
+
+To contribute to the communities in which CS group operates,
+
+CS group set up a bank-wide donor-advised matching program,, launched to encourage employee donations to charities.
+
+12 months from the date of this report. Based on this assessment, the Board is satistied that the CSi group has adequate, resources to continue in operation for this period, and it therefore, continues to adopt the going concern basis in preparing the financial statements.
+
+In considering going concern, the directors have reviewed the, capital, liquidity and financial position of CSi including future, capital, liquidity and financial plans to the end of 2022, including, under a series of systematic stress scenarios.
+
+The directors have also considered the market developments, during the year caused by COVID-19 and subsequent events in
+
+2021 including in March 2021, when a US-based hedge fund, failed to meet its margin commitments to CSi, and as a result CSi, has recorded losses of approximately USD 5,269 million in 2021.
+
+Following these losses, management executed a number of, actions to support CSi’s capital position and CSi has capital and, liquidity surpluses to all regulatory and internal limits and is forecast to maintain its capital surplus through to the end of 2022.
+
+Credit Suisse AG (‘CS AG’) has shown intent to support CSi, both for capital and liquidity over the next 18 months and CS AG, supported CSi by providing extra liquidity in 2021 during the
+
+CSi has reviewed its financial forecasts and following the significant credit loss incurred in March and April 2021, CSi is due to, return to profitability from 2022 onwards.
+
+CSi did not utilise any financial assistance offered by the UK government, in order to cope with the COVID-19 pandemic.
+

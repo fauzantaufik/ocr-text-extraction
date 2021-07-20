@@ -1,0 +1,20 @@
+version: '3.0'
+services:
+    app:
+        image: pdf_extractor
+        container_name: pdf_extractor
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes: 
+            - .:/app
+            - ./extracted_data:/app/extracted_data
+        environment:
+            - OS=LINUX
+            - POPPLER_DIRECTORY=/usr/local/bin
+            - TESSERACT_DIRECTORY=/usr/bin/tesseract
+            - IMPLEMENT=extract # ( extract or combine )
+            - PAGE_START=12
+            - PAGE_END=14
+            - SKIP_IF_ERROR=true # ["1", "true", "t"] as true, else false
+        command: 'python main.py'
